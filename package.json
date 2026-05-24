@@ -1,0 +1,10 @@
+{
+    "name": "com.partial.partialsciphers",
+    "version": "1.2.0",
+    "displayName": "Partials Ciphers",
+    "description": "Encryption utilities for unity games.",
+    "unity": "2021.3",
+    "author": {
+        "name": "Partial"
+    }
+}
